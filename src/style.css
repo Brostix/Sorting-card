@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+.cardbody {
+  background-color: white;
+  width: 5rem;
+  height: 7rem;
+  margin-top: 2rem;
+  border-radius: 10px;
+  display: row;
+  flex-wrap: wrap;
+}
+
+.topbox {
+}
+
+.midbox {
+}
+
+.botbox {
+}
